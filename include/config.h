@@ -14,9 +14,9 @@ static const unsigned int padding = 15;
 
 
 //Style options
-static int32_t margin_right = 0, margin_bottom = 0, margin_left = 0, margin_top = 0;
+static int32_t margin_right = 40, margin_bottom = 40, margin_left = 0, margin_top = 0;
 //Where it shows up on screen for example top left would be LEFT+TOP or right top would be RIGHT+TOP, etc
-static uint32_t anchor = TOP + RIGHT;
+static uint32_t anchor = BOTTOM + RIGHT;
 static uint32_t width = 450;
 static const unsigned int border_size = 2;
 /* Backgound alpha */
