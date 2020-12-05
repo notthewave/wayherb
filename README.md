@@ -1,7 +1,8 @@
-Wayland notifcation port of herbe https://github.com/dudik/herbe.
+# Wayland notifcation port of herbe 
+https://github.com/dudik/herbe.
 
 To configure edit the config.h in the include directory.
 
 You can pipe things to wayherb by doing the following:
 
-<some type of output> | xargs wayherb
+`<some type of output> | xargs wayherb`
