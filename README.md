@@ -1,10 +1,6 @@
-# Personal fork of Wayherb
+# Personal fork of Wayherb :seedling:
 
-To configure edit the `config.h` in the include directory.
-
-You can pipe things to wayherb by doing the following:
-
-**usage examples:**
+**usage examples**
 
 send a simple notification
 ```
@@ -15,3 +11,13 @@ show battery percentage in Linux
 ```
 cat /sys/class/power_supply/BAT0/capacity | xargs wayherb
 ```
+
+To configure edit `/include/config.h`
+
+**What I intend to do with this fork**
+
+- [ ] alpha as a patch
+
+- [ ] patch for basic markdown functionality
+
+*no guarantee though as I have **little to no knowledge of coding** or Wayland*
