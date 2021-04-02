@@ -17,7 +17,7 @@ To configure edit `/include/config.h`
 **What I intend to do with this fork**
 
 - [ ] alpha as a patch
-
 - [ ] patch for basic markdown functionality
+- [ ] patch for stacking notifiactions
 
 *no guarantee though as I have **little to no knowledge of coding** or Wayland*
